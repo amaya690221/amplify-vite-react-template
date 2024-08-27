@@ -47,3 +47,10 @@ cd amplify-vite-react-template && npm install
 amaya@bau-haus.com
 古い通例大文字@
 ```
+クラウドサンドボックスの作成
+```
+npx ampx sandbox
+```
+コマンドnpx ampx sandboxは と同時に実行されるはずですnpm run dev。クラウド サンドボックスは、「アプリ バックエンドの localhost に相当するもの」と考えることができます。
+
+うーんとうまく動いていんのかどうなのか・・・
